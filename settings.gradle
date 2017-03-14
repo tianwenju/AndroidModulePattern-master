@@ -1,0 +1,4 @@
+include ':app',
+        ':girls',
+        ':news',
+        ':common'

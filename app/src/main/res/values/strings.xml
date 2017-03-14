@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">组件化项目</string>
+
+    <string name="global_scheme">module</string>
+
+    <string name="app_exit_hint">再按一次退出程序哦~</string>
+
+</resources>
